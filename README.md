@@ -3,8 +3,8 @@ designing a spectrometer with optimization and tolerance calculations using zmax
 
 
 ## spectrometer 3D layout 
-![alt text](3DLayout.png)
+![alt text](3DLayout.bmp)
 
 ## Matrix spot diagram 
-![alt text](MatrixSpotDiagram.png)
+![alt text](MatrixSpotDiagram.bmp)
  
